@@ -7,4 +7,4 @@ Links and info to various social sites or ways of getting into contact.
 4. Tumblr: http://theouterlinux.tumblr.com/
 5. YouTube: https://www.youtube.com/channel/UCK5qGhtF5XS3ngbqyQ7iBqw
 
-Also, if you're bored, feel free to check out <rollresearch.com>.
+Also, if you're bored, feel free to check out rollresearch.com
