@@ -7,7 +7,7 @@ Links and info to various social sites or ways of getting into contact.
 3. Twitter (Article dump): https://twitter.com/theouterlinux
 4. Tumblr (Command line dump): http://theouterlinux.tumblr.com/
 5. YouTube: https://www.youtube.com/channel/UCK5qGhtF5XS3ngbqyQ7iBqw
-6. Reddit: https://www.reddit.com/subreddits/search?q=theouterlinux
+6. Reddit: https://www.reddit.com/r/TheOuterLinux
 7. Imgur: https://theouterlinux.imgur.com/
 8. SoundCloud: https://soundcloud.com/theouterlinux
 9. Twitch: https://www.twitch.tv/theouterlinux
