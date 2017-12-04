@@ -8,9 +8,10 @@ Links and info to various social sites or ways of getting into contact.
 4. Patreon: https://patreon.com/theouterlinux
 5. Tumblr (Command line dump): http://theouterlinux.tumblr.com/
 6. YouTube: https://www.youtube.com/channel/UCK5qGhtF5XS3ngbqyQ7iBqw
-7. Reddit: https://www.reddit.com/r/TheOuterLinux
-8. Imgur: https://theouterlinux.imgur.com/
-9. SoundCloud: https://soundcloud.com/theouterlinux
-10. Twitch: https://www.twitch.tv/theouterlinux
-11. DeviantArt: https://professor-whom.deviantart.com/
-12. Sketchfab (3D models): https://www.sketchfab.com/theouterlinux
+7. BitChute: https://www.bitchute.com/channel/theouterlinux
+9. Reddit: https://www.reddit.com/r/TheOuterLinux
+10. Imgur: https://theouterlinux.imgur.com/
+11. SoundCloud: https://soundcloud.com/theouterlinux
+12. Twitch: https://www.twitch.tv/theouterlinux
+13. DeviantArt: https://professor-whom.deviantart.com/
+14. Sketchfab (3D models): https://www.sketchfab.com/theouterlinux
