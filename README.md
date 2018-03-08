@@ -13,6 +13,7 @@ Links and info to various social sites or ways of getting into contact.
 9. Reddit: https://www.reddit.com/r/TheOuterLinux
 10. SoundCloud (Music): https://soundcloud.com/theouterlinux
 11. Twitch (Live): https://www.twitch.tv/theouterlinux
+12. Picarto (Live): https://www.picarto.tv/theouterlinux
 12. DeviantArt (Art): https://professor-whom.deviantart.com/
-13. Sketchfab (3D models): https://www.sketchfab.com/theouterlinux
-14. Spreadshirt (Shirts): https://www.spreadshirt.com/user/TheOuterLinux
+14. Sketchfab (3D models): https://www.sketchfab.com/theouterlinux
+15. Spreadshirt (Shirts): https://www.spreadshirt.com/user/TheOuterLinux
