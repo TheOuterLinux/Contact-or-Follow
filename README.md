@@ -1,8 +1,7 @@
 # Contact-or-Follow
 Links and info to various social sites or ways of getting into contact.
 
-1. Tox ID (Encrypted communication): 4E07D525B95BE56512C9B616EE90413CC1D0327418E64EEBF40DD21E97AAF867FB4DA36F783A; you can also save yourself some time and grab the QR Code here: 
-	1. <img src="https://theouterlinux.com/wp-content/uploads/2017/02/TheOuterLinuxQToxQRCode.png" />
+1. Tox ID (Encrypted communication): 4E07D525B95BE56512C9B616EE90413CC1D0327418E64EEBF40DD21E97AAF867FB4DA36F783A
 2. Email (Encrypted email): [theouterlinux@protonmail.com](mailto:theouterlinux@protonmail.com)
 3. Patreon (Donate): https://patreon.com/theouterlinux
 4. Twitter (Article dump): https://twitter.com/theouterlinux
@@ -14,6 +13,7 @@ Links and info to various social sites or ways of getting into contact.
 10. SoundCloud (Music): https://soundcloud.com/theouterlinux
 11. Twitch (Live): https://www.twitch.tv/theouterlinux
 12. Picarto (Live): https://www.picarto.tv/theouterlinux
-12. DeviantArt (Art): https://professor-whom.deviantart.com/
+12. DeviantArt (Art): https://theouterlinux.deviantart.com/
+13. ArtStation (Art): https://theouterlinux.artstation.com
 14. Sketchfab (3D models): https://www.sketchfab.com/theouterlinux
 15. Spreadshirt (Shirts): https://www.spreadshirt.com/user/TheOuterLinux
