@@ -17,6 +17,7 @@ Links and info to various social sites or ways of getting into contact.
 13. ArtStation (Art): https://theouterlinux.artstation.com
 14. Sketchfab (3D models): https://www.sketchfab.com/theouterlinux
 15. Spreadshirt (Shirts): https://www.spreadshirt.com/user/TheOuterLinux
-
+<br>
 If you like what I'm doing and want to support me, please:
+<br>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=GHG9EJT9BRDAY&lc=US&item_name=TheOuterLinux&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" target="_blank"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/panel-139290592-image-8439365e5aaa9aeb-320-320.png"/></a>
