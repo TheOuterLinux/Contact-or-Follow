@@ -16,7 +16,7 @@ Links and info to various social sites or ways of getting into contact.
 12. DeviantArt (Art): https://theouterlinux.deviantart.com/
 13. ArtStation (Art): https://theouterlinux.artstation.com
 14. Sketchfab (3D models): https://www.sketchfab.com/theouterlinux
-15. Spreadshirt (Shirts): https://www.spreadshirt.com/user/TheOuterLinux
+15. Teespring (Shirts, mugs, etc.): https://teespring.com/stores/theouterlinux
 <br>
 <center>If you like what I'm doing and want to support me, please:</center>
 <br>
