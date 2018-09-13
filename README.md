@@ -4,19 +4,21 @@ Links and info to various social sites or ways of getting into contact.
 1. Tox ID (Encrypted communication): 4E07D525B95BE56512C9B616EE90413CC1D0327418E64EEBF40DD21E97AAF867FB4DA36F783A
 2. Email (Encrypted email): [theouterlinux@protonmail.com](mailto:theouterlinux@protonmail.com)
 3. Patreon (Donate): https://patreon.com/theouterlinux
-4. Twitter (Article dump): https://twitter.com/theouterlinux
-5. Mastadon (FOSS Twitter alternative): https://mastodon.social/@TheOuterLinux
-6. Tumblr (Command-line bookmarking): http://theouterlinux.tumblr.com/
-7. YouTube (Playlists): https://www.youtube.com/channel/UCK5qGhtF5XS3ngbqyQ7iBqw
-8. BitChute (Videos): https://www.bitchute.com/channel/theouterlinux
-9. Reddit: https://www.reddit.com/r/TheOuterLinux
-10. SoundCloud (Music): https://soundcloud.com/theouterlinux
-11. Twitch (Live): https://www.twitch.tv/theouterlinux
-12. Picarto (Live): https://www.picarto.tv/theouterlinux
-12. DeviantArt (Art): https://theouterlinux.deviantart.com/
-13. ArtStation (Art): https://theouterlinux.artstation.com
-14. Sketchfab (3D models): https://www.sketchfab.com/theouterlinux
-15. Teespring (Shirts, mugs, etc.): https://teespring.com/stores/theouterlinux
+4. Ko-fi (Donate): https://ko-fi.com/theouterlinux
+5. Twitter (Article dump): https://twitter.com/theouterlinux
+6. Mastodon (FOSS Twitter alternative): https://mastodon.social/@TheOuterLinux
+7. Tumblr (Command-line bookmarking): http://theouterlinux.tumblr.com/
+8. YouTube (Playlists): https://www.youtube.com/channel/UCK5qGhtF5XS3ngbqyQ7iBqw
+9. BitChute (Videos): https://www.bitchute.com/channel/theouterlinux
+10. Reddit: https://www.reddit.com/r/TheOuterLinux
+11. SoundCloud (Music): https://soundcloud.com/theouterlinux
+12. Twitch (Live): https://www.twitch.tv/theouterlinux
+13. Picarto (Live): https://www.picarto.tv/theouterlinux
+14. DeviantArt (Art): https://theouterlinux.deviantart.com/
+15. ArtStation (Art): https://theouterlinux.artstation.com
+16. Sketchfab (3D models): https://www.sketchfab.com/theouterlinux
+17. Teepublic (Shirts, mugs, etc.): https://www.teepublic.com/user/theouterlinux
+18. Inprnt (Buy prints): https://www.inprnt.com/profile/theouterlinux/
 <br>
 <center>If you like what I'm doing and want to support me, please:</center>
 <br>
