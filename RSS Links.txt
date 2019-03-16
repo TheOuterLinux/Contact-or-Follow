@@ -1,4 +1,5 @@
 Artstation: https://theouterlinux.artstation.com/rss
+Sketchfab (3D Models): https://gitlab.com/TheOuterLinux/Contact-or-Follow/raw/master/TheOuterLinux_Sketchfab.atom
 DeviantArt Gallery: https://backend.deviantart.com/rss.xml?q=gallery:theouterlinux
 DeviantArt Journal: https://backend.deviantart.com/rss.xml?q=by%3ATheOuterLinux&type=journal&formatted=1
 Mastodon: https://mastodon.social/users/TheOuterLinux.atom
@@ -6,3 +7,5 @@ Soundcloud: http://feeds.soundcloud.com/users/soundcloud:users:96926696/sounds.r
 Tumblr: http://theouterlinux.tumblr.com/rss
 Twitter: https://www.twitrss.me/twitter_user_to_rss/?user=theouterlinux
 Bitchute: https://www.bitchute.com/feeds/rss/channel/theouterlinux
+OpenGameArt: https://opengameart.org/users/61542/art.xml
+PeerTube: https://peertube.mastodon.host/feeds/videos.xml?videoChannelId=6200
